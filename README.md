@@ -87,5 +87,4 @@ More information can be found at: https://rajpurkar.github.io/SQuAD-explorer/
 | Author            | Contact Details         |
 |-------------------|-------------------------|
 | Ravi Teja Kothuru | rkothuru@sandiego.edu   |
-| Soumi Ray         | soumiray@sandiego.edu   |
-| Anwesha Sarangi   | asarangi@sandiego.edu   |
+
